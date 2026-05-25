@@ -334,3 +334,7 @@ This setup supports:
 - synchronized markers
 - simulated external power traces
 
+
+# Copyright
+
+Copyright (c) 2026 Nilma Abbas
